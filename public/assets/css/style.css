@@ -1,0 +1,35 @@
+#todo-input {
+	margin-top: 20px;
+}
+
+#todo-list {
+	margin-top: 30px;
+}
+
+#todo-item {
+	margin: 10px 10px 10px 10px;
+}
+
+#todolist-counter {
+	margin-left: 30px;
+	height: 20px;
+    margin-bottom: 7px;
+}
+
+#logo-navbar {
+	margin-top: -7px;
+}
+
+#todo-header {
+	padding: 0px 13% 0px 13%;
+}
+
+#todo-text-logo {
+	color: #fff;
+	font-size: 22pt;
+    font-family: cursive;
+}
+
+#plus-Btn {
+	margin-left: 40px;
+}

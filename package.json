@@ -1,0 +1,21 @@
+{
+  "name": "mean_todo_list",
+  "private": true,
+  "version": "0.0.0",
+  "description": "simple to-do list using MEAN",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YaTaras",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "express": "^4.7.2",
+    "jade": "^1.11.0",
+    "method-override": "~2.1.2",
+    "mongoose": "^4.1.11",
+    "morgan": "~1.2.2",
+    "serve-favicon": "^2.3.0"
+  }
+}
